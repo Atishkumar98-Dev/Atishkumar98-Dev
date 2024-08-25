@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Atish kumar
-- 👀 I’m interested in Pyhton Development
+- 👀 I’m interested in Python Development
 - 🌱 I’m currently learning Python - ML/AI
 - 📫 How to reach me atishk98.dev@gmail.com

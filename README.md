@@ -7,11 +7,6 @@ I'm a **Django Developer** specializing in building scalable, high-performance w
 - **React** for building interactive, responsive frontends
 - Experienced in optimizing code for **performance** and **scalability**
 
-### 🚀 Recent Projects
-- **Student Management System (SMS)**: Designed a comprehensive fee mapping and grade card system for a smoother academic experience.
-- **Invoice & Donation Portal**: Engineered a secure donation system with automated invoicing, reducing errors and enhancing efficiency.
-- **Admission Portal**: Developed an integrated admission system with Django and React, simplifying student enrollment.
-
 ### 💼 Tech Stack
 - **Languages & Frameworks:** Python, Django, React JS
 - **Web Development:** HTML/CSS, JavaScript, Bootstrap, Tailwind

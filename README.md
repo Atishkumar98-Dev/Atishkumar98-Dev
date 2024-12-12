@@ -2,8 +2,7 @@
 **Experienced Django Developer Specializing in Scalable Web Applications**  
 **Location:** Panvel, Navi Mumbai, India  
 **Phone:** +91 8652012693  
-**Email:** atish98.dev@gmail.com  
-**Portfolio:** [atishkumar.co.in](https://atishkumar.co.in)  
+**Email:** atish98.dev@gmail.com 
 
 ---
 

@@ -151,3 +151,352 @@ if __name__ == "__main__":
 
 ```
 ```
+
+---
+
+# 📊 Skills
+
+```text
+Python            ████████████████████████ 95%
+Django            ███████████████████████ 93%
+Django REST API   ██████████████████████ 92%
+React             ████████████████████ 85%
+PostgreSQL        ████████████████████ 85%
+Docker            ███████████████████ 80%
+AWS               █████████████████ 78%
+Linux             █████████████████ 78%
+Redis             ████████████████ 75%
+```
+
+---
+
+# 🤖 AI / LLM
+
+```python
+AI_STACK = {
+
+    "Current": [
+
+        "OpenAI API",
+
+        "LangChain",
+
+        "RAG"
+
+    ],
+
+    "Learning": [
+
+        "AI Agents",
+
+        "MCP",
+
+        "Vector Databases"
+
+    ]
+}
+```
+
+---
+
+# ☁️ Architecture
+
+```text
+                    Users
+                      │
+                      ▼
+             React Frontend
+                      │
+                      ▼
+              Django REST API
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+      Redis Cache            PostgreSQL
+          │
+          ▼
+       AWS EC2
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Student Management System
+
+### Tech Stack
+
+* Django
+* React
+* PostgreSQL
+
+### Features
+
+* Fee Mapping
+* Grade Card Generation
+* Room Scheduling
+* Result Management
+
+---
+
+## 💳 Donation Portal
+
+### Features
+
+* SBI ePay Integration
+* Automated Invoice Generation
+* Donation Tracking
+* Email Notifications
+
+---
+
+## 📚 Admission Portal
+
+### Features
+
+* React Frontend
+* Django REST Framework
+* Student Synchronization
+* Real-Time Updates
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev&show_icons=true&theme=tokyonight"/>
+
+<img height="170em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Atishkumar98-Dev&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Top Languages
+
+<div align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💀 Random Developer Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ Quote Of The Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+---
+
+# 🎯 Current Focus
+
+```python
+CURRENTLY_LEARNING = {
+
+    "Backend": [
+
+        "Redis",
+
+        "FastAPI",
+
+        "Celery"
+
+    ],
+
+    "Cloud": [
+
+        "Docker",
+
+        "AWS",
+
+        "CI/CD"
+
+    ],
+
+    "Architecture": [
+
+        "System Design",
+
+        "Microservices"
+
+    ],
+
+    "AI": [
+
+        "OpenAI API",
+
+        "LangChain",
+
+        "AI Agents",
+
+        "MCP"
+
+    ]
+}
+```
+
+---
+
+# 💻 Terminal
+
+```text
+┌──(root㉿atish)-[~/workspace]
+└─$ whoami
+
+Atish Kumar
+
+┌──(root㉿atish)-[~/workspace]
+└─$ experience
+
+3+ Years
+
+┌──(root㉿atish)-[~/workspace]
+└─$ skills
+
+Python
+Django
+React
+PostgreSQL
+Docker
+AWS
+
+┌──(root㉿atish)-[~/workspace]
+└─$ currently
+
+Building Scalable Applications 🚀
+```
+
+---
+
+# ☕ Coding Philosophy
+
+```python
+while alive:
+
+    code()
+
+    learn()
+
+    optimize()
+
+    deploy()
+
+    repeat()
+```
+
+---
+
+# ⚡ Fun Fact
+
+```python
+def life():
+
+    while True:
+
+        coffee()
+
+        code()
+
+        sleep()
+
+        repeat()
+```
+
+---
+
+# 🧠 Developer Mindset
+
+```python
+class Mindset:
+
+    def __init__(self):
+
+        self.clean_code = True
+
+        self.debugging = "Patience"
+
+        self.learning = "Never Stops"
+
+        self.goal = "Build Scalable Systems"
+
+    def motto(self):
+
+        return "Code • Learn • Improve • Repeat 🚀"
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:atish98.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Atishkumar98-Dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# 💙 Thanks For Visiting
+
+<div align="center">
+
+### ⭐ Happy Coding! ⭐
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E293B,100:0F172A&height=150&section=footer"/>
+
+</div>
+
+---
+
+```
+
+<div align="center">
+
+### 🚀 Building Scalable Applications One Commit At A Time
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting!;Happy+Coding!;Keep+Learning+Keep+Building!"/>
+
+</div>
+```

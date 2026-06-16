@@ -14,26 +14,32 @@
 
 ```python
 class AtishKumar:
+
     def __init__(self):
+
         self.name = "Atish Kumar"
         self.role = "Software Developer"
         self.location = "Panvel, Navi Mumbai 🇮🇳"
 
         self.stack = {
+
             "Backend": [
                 "Python",
                 "Django",
                 "Django REST Framework"
             ],
+
             "Frontend": [
                 "React",
                 "JavaScript",
                 "TailwindCSS"
             ],
+
             "Database": [
                 "PostgreSQL",
                 "MySQL"
             ],
+
             "Cloud": [
                 "Docker",
                 "AWS",
@@ -42,20 +48,8 @@ class AtishKumar:
         }
 
     def status(self):
+
         return "Building Scalable Applications 🚀"
-
-
-if __name__ == "__main__":
-    me = AtishKumar()
-
-    print(f"👋 Hi, I'm {me.name}")
-    print(f"💼 {me.role}")
-    print(f"📍 {me.location}")
-
-    for category, technologies in me.stack.items():
-        print(f"⚡ {category}: {', '.join(technologies)}")
-
-    print(f"\n🚀 {me.status()}")
 ```
 
 ---
@@ -84,7 +78,6 @@ if __name__ == "__main__":
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
 
@@ -186,13 +179,13 @@ AWS EC2
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ Coding Mode
 
-> Requires `.github/workflows/snake.yml`
+<div align="center">
 
-```markdown
-![Snake animation](https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg)
-```
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+
+</div>
 
 ---
 
@@ -231,6 +224,32 @@ CURRENTLY_LEARNING = [
 
 ---
 
+# 💻 Terminal
+
+```text
+┌──(root㉿atish)-[~/workspace]
+└─$ whoami
+
+Atish Kumar
+
+┌──(root㉿atish)-[~/workspace]
+└─$ stack
+
+Python
+Django
+React
+PostgreSQL
+Docker
+AWS
+
+┌──(root㉿atish)-[~/workspace]
+└─$ status
+
+Building Scalable Applications...
+```
+
+---
+
 # ☕
 
 ```python
@@ -249,19 +268,19 @@ while alive:
 
 # 📫 Connect With Me
 
-### 📧 Email
+📧 **Email**
 
 ```text
 atish98.dev@gmail.com
 ```
 
-### 📍 Location
+📍 **Location**
 
 ```text
 Panvel, Navi Mumbai, India
 ```
 
-### 🐙 GitHub
+🐙 **GitHub**
 
 ```text
 github.com/Atishkumar98-Dev

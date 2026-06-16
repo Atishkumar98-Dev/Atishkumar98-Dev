@@ -14,7 +14,6 @@
 
 ```python
 class AtishKumar:
-
     def __init__(self):
         self.name = "Atish Kumar"
         self.role = "Software Developer"
@@ -26,18 +25,15 @@ class AtishKumar:
                 "Django",
                 "Django REST Framework"
             ],
-
             "Frontend": [
                 "React",
                 "JavaScript",
                 "TailwindCSS"
             ],
-
             "Database": [
                 "PostgreSQL",
                 "MySQL"
             ],
-
             "Cloud": [
                 "Docker",
                 "AWS",
@@ -170,6 +166,13 @@ AWS EC2
 
 ---
 
+# 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev\&show_icons=true\&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Atishkumar98-Dev\&theme=github-dark-blue)
+
+---
 
 # 📊 Top Languages
 
@@ -185,20 +188,10 @@ AWS EC2
 
 # 🐍 Contribution Snake
 
-```html
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg">
+> Requires `.github/workflows/snake.yml`
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Atishkumar98-Dev/output/github-contribution-grid-snake.svg">
-
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg">
-</picture>
+```markdown
+![Snake animation](https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg)
 ```
 
 ---
@@ -256,19 +249,19 @@ while alive:
 
 # 📫 Connect With Me
 
-📧 **Email**
+### 📧 Email
 
 ```text
 atish98.dev@gmail.com
 ```
 
-📍 **Location**
+### 📍 Location
 
 ```text
 Panvel, Navi Mumbai, India
 ```
 
-🐙 **GitHub**
+### 🐙 GitHub
 
 ```text
 github.com/Atishkumar98-Dev

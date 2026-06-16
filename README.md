@@ -175,7 +175,7 @@ AWS EC2
 
 # 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=radical)]
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Atishkumar98-Dev\&theme=radical)]
 
 ---
 
@@ -183,7 +183,7 @@ AWS EC2
 
 <p align="center">
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
@@ -195,14 +195,14 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 # 📊 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 # 📈 Activity Graph
 
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark)]
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=react-dark)]
 
 ---
 
@@ -277,7 +277,7 @@ print(response.json())
 
 # 📅 Contribution Calendar
 
-![Calendar](https://ghchart.rshah.org/YOUR_USERNAME)
+![Calendar](https://ghchart.rshah.org/Atishkumar98-Dev)
 
 ---
 

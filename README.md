@@ -187,14 +187,17 @@ AWS EC2
 
 ```html
 <picture>
-  <source media="(prefers-color-scheme: dark)"
+  <source
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
+  <source
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake.svg">
 
-  <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg">
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg">
 </picture>
 ```
 

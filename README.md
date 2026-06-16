@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:5A5A5A&height=250&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Specialist%20|%20REST%20API%20Architect&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:5A5A5A&height=250&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Django%20Specialist%20|%20REST%20API%20Architect&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=B0B0B0&center=true&vCenter=true&width=850&lines=Python+Developer;Django+Expert;React+Developer;REST+API+Architect;AWS+Cloud+Enthusiast;AI+%2F+LLM+Explorer"/>
 
@@ -14,39 +14,51 @@
 
 ```python
 class AtishKumar:
-
     def __init__(self):
-
+        self.name = "Atish Kumar"
         self.role = "Software Developer"
-
         self.location = "Panvel, Navi Mumbai 🇮🇳"
 
-        self.backend = [
-            "Python",
-            "Django",
-            "Django REST Framework"
-        ]
+        self.stack = {
+            "Backend": [
+                "Python",
+                "Django",
+                "Django REST Framework"
+            ],
 
-        self.frontend = [
-            "React",
-            "JavaScript",
-            "TailwindCSS"
-        ]
+            "Frontend": [
+                "React",
+                "JavaScript",
+                "TailwindCSS"
+            ],
 
-        self.database = [
-            "PostgreSQL",
-            "MySQL"
-        ]
+            "Database": [
+                "PostgreSQL",
+                "MySQL"
+            ],
 
-        self.cloud = [
-            "Docker",
-            "AWS",
-            "Linux"
-        ]
+            "Cloud": [
+                "Docker",
+                "AWS",
+                "Linux"
+            ]
+        }
 
     def status(self):
-
         return "Building Scalable Applications 🚀"
+
+
+if __name__ == "__main__":
+    me = AtishKumar()
+
+    print(f"👋 Hi, I'm {me.name}")
+    print(f"💼 {me.role}")
+    print(f"📍 {me.location}")
+
+    for category, technologies in me.stack.items():
+        print(f"⚡ {category}: {', '.join(technologies)}")
+
+    print(f"\n🚀 {me.status()}")
 ```
 
 ---

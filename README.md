@@ -479,24 +479,21 @@ class Mindset:
 
 # 💙 Thanks For Visiting
 
+---
+
 <div align="center">
 
-### ⭐ Happy Coding! ⭐
+# ⭐ Happy Coding! ⭐
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E293B,100:0F172A&height=150&section=footer"/>
+### 🚀 Building Scalable Applications One Commit At A Time
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Thanks+For+Visiting!;Happy+Coding!;Keep+Learning+Keep+Building!;Code+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat+%F0%9F%9A%80"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E293B,100:0F172A&height=150&section=footer"/>
 
 </div>
 
 ---
 
-```
-
-<div align="center">
-
-### 🚀 Building Scalable Applications One Commit At A Time
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting!;Happy+Coding!;Keep+Learning+Keep+Building!"/>
-
-</div>
-```

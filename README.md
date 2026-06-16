@@ -1,22 +1,33 @@
-<div align="center">
+# ATISH KUMAR
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:312E81&height=280&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Specialist%20|%20REST%20API%20Architect&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Python+Developer;Django+Expert;React+Developer;REST+API+Architect;AWS+Cloud+Enthusiast;AI+%2F+LLM+Explorer"/>
-
-<img src="https://komarev.com/ghpvc/?username=Atishkumar98-Dev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
-<div align="center">
-
-<img width="75%" src="https://user-images.githubusercontent.com/74038190/212749695-0422a9f5-8452-4a0e-bb88-f7f9b4a0e6f0.gif">
-
-</div>
+**Python Developer | Django Specialist | REST API Architect**
 
 ---
 
-# 💻 About Me
+## Header
+
+* Tokyo Night blue → purple capsule banner
+* Typing SVG with:
+
+  * Python Developer
+  * Django Expert
+  * React Developer
+  * REST API Architect
+  * AWS Cloud Enthusiast
+  * AI / LLM Explorer
+* Profile views badge
+
+---
+
+## Professional Animation
+
+Use a modern coding animation (avoid PyCharm GIFs).
+
+---
+
+## 💻 About Me
+
+A runnable Python class:
 
 ```python
 class AtishKumar:
@@ -60,35 +71,35 @@ class AtishKumar:
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![DRF](https://img.shields.io/badge/DjangoREST-red?style=for-the-badge)
+* Python
+* Django
+* Django REST Framework
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss)
+* React
+* JavaScript
+* TailwindCSS
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+* PostgreSQL
+* MySQL
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+* Docker
+* AWS
+* Linux
+* Git
 
 ---
 
-# 📊 Skills
+## 📊 Skills
 
 ```text
 Python         ████████████████████████ 95%
@@ -102,7 +113,7 @@ AWS            █████████████████ 78%
 
 ---
 
-# 🤖 AI / LLM
+## 🤖 AI / LLM
 
 ```python
 AI_STACK = {
@@ -123,7 +134,7 @@ AI_STACK = {
 
 ---
 
-# ☁️ Architecture
+## ☁️ Architecture
 
 ```text
 Users
@@ -146,9 +157,9 @@ AWS EC2
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 Student Management System
+### 🎓 Student Management System
 
 * Django
 * React
@@ -157,52 +168,50 @@ AWS EC2
 * Fee Mapping
 * Room Scheduling
 
-## 💳 Donation Portal
+### 💳 Donation Portal
 
 * SBI ePay Integration
 * Automated Invoice Generation
 
-## 📚 Admission Portal
+### 📚 Admission Portal
 
-* Django REST Framework
+* DRF Synchronization
 * React Frontend
-* SMS Synchronization
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atishkumar98-Dev\&theme=tokyonight)
-
----
-
-# 📊 Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev\&layout=compact\&theme=tokyonight)
+* GitHub Stats Card
+* GitHub Streak Stats
 
 ---
 
-# 📈 Contribution Graph
+## 📊 Top Languages
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=tokyo-night)
-
----
-
-# 💀 Random Developer Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+* GitHub Top Languages Card
 
 ---
 
-# ⚡ Quote Of The Day
+## 📈 Contribution Graph
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+* GitHub Activity Graph
 
 ---
 
-# 🎯 Current Focus
+## 💀 Random Developer Joke
+
+* Joke card
+
+---
+
+## ⚡ Quote Of The Day
+
+* Quote card
+
+---
+
+## 🎯 Current Focus
 
 ```python
 CURRENTLY_LEARNING = [
@@ -227,7 +236,7 @@ CURRENTLY_LEARNING = [
 
 ---
 
-# 💻 Terminal
+## 💻 Terminal
 
 ```text
 ┌──(root㉿atish)-[~/workspace]
@@ -253,7 +262,7 @@ Building Scalable Applications...
 
 ---
 
-# ☕
+## ☕
 
 ```python
 while alive:
@@ -269,26 +278,16 @@ while alive:
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 **Email**
-
-`atish98.dev@gmail.com`
-
-📍 **Location**
-
-`Panvel, Navi Mumbai, India`
-
-🐙 **GitHub**
-
-`github.com/Atishkumar98-Dev`
+* 📧 [atish98.dev@gmail.com](mailto:atish98.dev@gmail.com)
+* 📍 Panvel, Navi Mumbai, India
+* 🐙 github.com/Atishkumar98-Dev
 
 ---
 
-<div align="center">
+## Footer
 
-### ⭐ Thanks For Visiting ⭐
+Animated Tokyo Night footer banner with:
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:0F172A&height=120&section=footer"/>
-
-</div>
+**⭐ Thanks For Visiting ⭐**

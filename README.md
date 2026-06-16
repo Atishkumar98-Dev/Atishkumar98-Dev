@@ -1,109 +1,224 @@
-# <h1 align="center">Hi 👋, I'm Atish Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-🐍 Python Developer | Django Specialist | REST API Architect | React Developer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=280&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Django%20Specialist%20%7C%20REST%20API%20Architect&descAlignY=55"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Expert;REST+API+Developer;React+Frontend+Developer;AWS+Cloud+Enthusiast;Building+Scalable+Web+Applications" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Python+Developer;Django+Expert;REST+API+Architect;React+Developer;AWS+Cloud+Enthusiast;AI+%2F+LLM+Explorer;Building+Scalable+Applications"/>
+
+<img src="https://komarev.com/ghpvc/?username=Atishkumar98-Dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🟢 SYSTEM STATUS
 
-```python
-class AtishKumar:
+```bash
+┌──(root㉿atish)-[~/cyberspace]
+└─$ whoami
 
-    def __init__(self):
-        self.name = "Atish Kumar"
-        self.location = "Panvel, Navi Mumbai, India"
-        self.role = "Software Developer"
-        self.languages = ["Python", "JavaScript"]
-        self.backend = ["Django", "DRF"]
-        self.frontend = ["React", "HTML", "CSS", "Tailwind"]
-        self.database = ["PostgreSQL", "MySQL", "SQLite"]
-        self.cloud = ["AWS", "Docker"]
-        self.tools = ["Git", "Linux", "Jenkins"]
+Atish Kumar
 
-    def say_hi(self):
-        return "Thanks for visiting my profile 🚀"
+┌──(root㉿atish)-[~/cyberspace]
+└─$ role
 
+Software Developer
 
-me = AtishKumar()
-print(me.say_hi())
+┌──(root㉿atish)-[~/cyberspace]
+└─$ location
+
+Panvel, Navi Mumbai 🇮🇳
+
+┌──(root㉿atish)-[~/cyberspace]
+└─$ status
+
+Building Scalable Applications...
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 🤖 JARVIS AI
+
+```python
+class Jarvis:
+
+    def __init__(self):
+
+        self.owner = "Atish Kumar"
+
+        self.languages = [
+            "Python",
+            "JavaScript"
+        ]
+
+        self.backend = [
+            "Django",
+            "DRF",
+            "FastAPI"
+        ]
+
+        self.frontend = [
+            "React",
+            "TailwindCSS"
+        ]
+
+        self.database = [
+            "PostgreSQL",
+            "MySQL"
+        ]
+
+        self.cloud = [
+            "AWS",
+            "Docker",
+            "Linux"
+        ]
+
+    def status(self):
+
+        return "All Systems Operational"
+
+jarvis = Jarvis()
+
+print(jarvis.status())
+```
+
+---
+
+# ⚡ TECH STACK
 
 ## Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge\&logo=python)
+
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
+
+![DRF](https://img.shields.io/badge/DjangoREST-red?style=for-the-badge)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge\&logo=fastapi)
 
 ---
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwindcss)
 
 ---
 
 ## Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge)
 
 ---
 
-## DevOps & Cloud
+## DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-darkred?style=for-the-badge\&logo=jenkins)
 
 ---
 
-# 🎯 Coding Skills
+# 📊 SKILL LEVEL
 
 ```text
-Python          ██████████████████████ 95%
-Django          █████████████████████ 93%
-DRF             ████████████████████ 92%
-React           ██████████████████ 85%
-PostgreSQL      ██████████████████ 85%
-Docker          ████████████████ 80%
-AWS             ███████████████ 75%
+Python         ████████████████████████ 95%
+
+Django         ███████████████████████ 93%
+
+DRF            ██████████████████████ 92%
+
+React          ████████████████████ 85%
+
+PostgreSQL     ████████████████████ 85%
+
+Docker         ███████████████████ 80%
+
+AWS            █████████████████ 78%
+
+Redis          ████████████████ 75%
+
+System Design  ███████████████ 72%
 ```
 
 ---
 
-# 💼 Experience
+# ☁ AWS ARCHITECTURE
 
-### Software Developer
-
-### Tata Institute of Social Sciences (TISS)
-
-* Student Management System
-* Admission Portal
-* Donation Portal
-* Invoice Generation System
-* SBIepay Integration
-* Grade Card Module
-* Room Scheduling System
+```text
+                    Users
+                       │
+                 React Frontend
+                       │
+                  Nginx Server
+                       │
+                Django REST API
+                       │
+                  Redis Cache
+                       │
+                  PostgreSQL
+                       │
+                    AWS EC2
+                       │
+                    S3 Bucket
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🐳 DOCKER ECOSYSTEM
+
+```text
+            Docker Compose
+
+┌────────────────────────────────┐
+│         React Container        │
+└──────────────┬─────────────────┘
+               │
+┌──────────────▼─────────────────┐
+│        Django Container        │
+└──────────────┬─────────────────┘
+               │
+      ┌────────┴────────┐
+      │                 │
+┌─────▼───────┐ ┌──────▼──────┐
+│ Redis Cache │ │ PostgreSQL  │
+└─────────────┘ └─────────────┘
+```
+
+---
+
+# 🤖 AI / LLM
+
+```python
+AI_STACK = {
+
+    "Current": [
+        "OpenAI API",
+        "LangChain",
+        "RAG"
+    ],
+
+    "Learning": [
+        "Agents",
+        "MCP",
+        "Vector Databases"
+    ]
+}
+```
+
+---
+
+# 🚀 FEATURED PROJECTS
 
 ## 🎓 Student Management System
 
@@ -111,15 +226,14 @@ AWS             ███████████████ 75%
 class StudentManagementSystem:
 
     backend = "Django"
+
     frontend = "React"
+
     database = "PostgreSQL"
 
     def generate_grade_card(self):
-        return "Grade Card Generated"
 
-
-sms = StudentManagementSystem()
-print(sms.generate_grade_card())
+        return "Grade Card Generated Successfully"
 ```
 
 ---
@@ -130,11 +244,8 @@ print(sms.generate_grade_card())
 class DonationPortal:
 
     def create_invoice(self):
-        return "Invoice Created Successfully"
 
-
-portal = DonationPortal()
-print(portal.create_invoice())
+        return "Invoice Generated Successfully"
 ```
 
 ---
@@ -144,69 +255,41 @@ print(portal.create_invoice())
 ```python
 class AdmissionPortal:
 
-    stack = ["Django", "React", "DRF"]
+    stack = [
 
-    def sync_students(self):
-        return "Students Synchronized"
+        "Django",
 
+        "React",
 
-print(AdmissionPortal().sync_students())
+        "DRF"
+    ]
 ```
 
 ---
 
-# 🧠 System Design
+# 📈 GITHUB ANALYTICS
 
-```text
-User
- ↓
-React
- ↓
-Django REST Framework
- ↓
-Redis Cache
- ↓
-PostgreSQL
- ↓
-AWS EC2
-```
+![](https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev\&show_icons=true\&theme=chartreuse-dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Atishkumar98-Dev\&theme=chartreuse-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev\&layout=compact\&theme=chartreuse-dark)
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 CONTRIBUTION GRAPH
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Atishkumar98-Dev\&theme=radical)]
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=react-dark)
 
 ---
 
-# 📊 Top Languages
+# 🏆 ACHIEVEMENTS
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Atishkumar98-Dev\&theme=matrix\&column=4\&margin-w=15)
 
 ---
 
-# 📈 Activity Graph
-
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=react-dark)]
-
----
-
-# 🐍 Contribution Snake
+# 🐍 SNAKE GAME
 
 ```markdown
 ![snake gif](https://github.com/Atishkumar98-Dev/Atishkumar98-Dev/blob/output/github-contribution-grid-snake.svg)
@@ -214,7 +297,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 
 ---
 
-# 👾 Pacman Contribution Graph
+# 👾 PACMAN CONTRIBUTION GRAPH
 
 ```html
 <img src="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/pacman-contribution-graph.svg">
@@ -222,87 +305,137 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 
 ---
 
-# ☕ Developer Mode
+# 🔥 LEETCODE
 
-```python
-while coding:
-    coffee += 1
-    bugs -= 1
+```markdown
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)
 ```
 
 ---
 
-# 🔥 Current Focus
+# 🎵 NOW PLAYING
+
+```markdown
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)
+```
+
+---
+
+# ⌨ CURRENTLY LEARNING
 
 ```python
-currently_learning = [
-    "AWS",
-    "Docker",
+CURRENTLY_LEARNING = [
+
     "Redis",
+
+    "Docker",
+
     "CI/CD",
+
+    "Microservices",
+
     "System Design",
-    "Microservices"
+
+    "AWS",
+
+    "AI Agents",
+
+    "MCP"
 ]
 ```
 
 ---
 
-# 🌐 API Playground
+# 🟢 MATRIX TERMINAL
 
-```python
-import requests
+```bash
+> initializing ...
 
-response = requests.get(
-    "https://api.github.com/users/YOUR_USERNAME"
-)
+> python developer detected ...
 
-print(response.json())
+> django expert loaded ...
+
+> api architect enabled ...
+
+> docker container started ...
+
+> aws instance connected ...
+
+> system online ...
 ```
 
 ---
 
-# 🎮 Fun Zone
+# ☕
 
-## Random Developer Joke
+```python
+while coding:
+
+    coffee += 1
+
+    bugs -= 1
+
+    experience += 100
+```
+
+---
+
+# 💀 RANDOM DEV JOKE
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
-## Random Quote
+# ⚡ RANDOM QUOTE
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-# 📅 Contribution Calendar
-
-![Calendar](https://ghchart.rshah.org/Atishkumar98-Dev)
+![Quote](https://quotes-github-readme.vercel.app/api?theme=radical)
 
 ---
 
-# 📫 Connect With Me
+# 📫 CONNECT WITH ME
 
-<p align="left">
+### 📧 Email
 
-<a href="mailto:atish98.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
+```text
+atish98.dev@gmail.com
+```
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+### 🌍 Location
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
+```text
+Panvel, Navi Mumbai, India
+```
 
-</p>
+### 🐙 GitHub
+
+```text
+https://github.com/Atishkumar98-Dev
+```
 
 ---
 
-<h3 align="center">
+# ⚡ CODING PHILOSOPHY
 
-⭐ Building Scalable Applications with Python & Django ⭐
+```python
+while alive:
 
-</h3>
+    code()
+
+    learn()
+
+    deploy()
+
+    repeat()
+```
+
+---
+
+<div align="center">
+
+# █████ ACCESS TERMINATED █████
+
+### ⭐ Thanks For Visiting My Cyber World ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=150&section=footer"/>
+
+</div>

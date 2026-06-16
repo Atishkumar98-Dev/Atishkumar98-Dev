@@ -14,6 +14,7 @@
 
 ```python
 class AtishKumar:
+
     def __init__(self):
         self.name = "Atish Kumar"
         self.role = "Software Developer"
@@ -68,39 +69,25 @@ if __name__ == "__main__":
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-
 ![DRF](https://img.shields.io/badge/DjangoREST-red?style=for-the-badge)
-
----
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss)
-
----
 
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
-
----
 
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
@@ -144,15 +131,20 @@ AI_STACK = {
 
 ```text
 Users
-   │
+ │
+ ▼
 React Frontend
-   │
+ │
+ ▼
 Django REST API
-   │
+ │
+ ▼
 Redis Cache
-   │
+ │
+ ▼
 PostgreSQL
-   │
+ │
+ ▼
 AWS EC2
 ```
 
@@ -178,13 +170,6 @@ AWS EC2
 
 ---
 
-# 📈 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev\&show_icons=true\&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atishkumar98-Dev\&theme=github-dark-blue)
-
----
 
 # 📊 Top Languages
 
@@ -200,8 +185,17 @@ AWS EC2
 
 # 🐍 Contribution Snake
 
-```markdown
-![snake gif](https://github.com/Atishkumar98-Dev/Atishkumar98-Dev/blob/output/github-contribution-grid-snake.svg)
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake.svg">
+
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/github-contribution-grid-snake-dark.svg">
+</picture>
 ```
 
 ---
@@ -259,19 +253,19 @@ while alive:
 
 # 📫 Connect With Me
 
-### 📧 Email
+📧 **Email**
 
 ```text
 atish98.dev@gmail.com
 ```
 
-### 📍 Location
+📍 **Location**
 
 ```text
 Panvel, Navi Mumbai, India
 ```
 
-### 🐙 GitHub
+🐙 **GitHub**
 
 ```text
 github.com/Atishkumar98-Dev

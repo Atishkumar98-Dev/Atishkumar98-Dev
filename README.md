@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif">
+<img width="85%" src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif">
 
 </div>
 
@@ -65,39 +65,25 @@ class AtishKumar:
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-
 ![DRF](https://img.shields.io/badge/DjangoREST-red?style=for-the-badge)
-
----
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss)
-
----
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
-
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
@@ -167,16 +153,21 @@ AWS EC2
 * Django
 * React
 * PostgreSQL
+* Grade Cards
+* Fee Mapping
+* Room Scheduling
 
 ## 💳 Donation Portal
 
 * SBI ePay Integration
-* Invoice Generation
+* Automated Invoice Generation
+* Donation Management
 
 ## 📚 Admission Portal
 
-* DRF Synchronization
+* Django REST Framework
 * React Frontend
+* SMS Synchronization
 
 ---
 
@@ -206,7 +197,7 @@ AWS EC2
 
 ---
 
-# ⚡ Quote of the Day
+# ⚡ Quote Of The Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
@@ -224,6 +215,8 @@ CURRENTLY_LEARNING = [
     "CI/CD",
 
     "System Design",
+
+    "Microservices",
 
     "AWS",
 

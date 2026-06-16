@@ -1,18 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:5A5A5A&height=250&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Django%20Specialist%20|%20REST%20API%20Architect&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:312E81&height=280&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Specialist%20|%20REST%20API%20Architect&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=B0B0B0&center=true&vCenter=true&width=850&lines=Python+Developer;Django+Expert;React+Developer;REST+API+Architect;AWS+Cloud+Enthusiast;AI+%2F+LLM+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Python+Developer;Django+Expert;React+Developer;REST+API+Architect;AWS+Cloud+Enthusiast;AI+%2F+LLM+Explorer"/>
 
-![](https://komarev.com/ghpvc/?username=Atishkumar98-Dev\&label=PROFILE+VIEWS\&color=grey\&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Atishkumar98-Dev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+<img width="70%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif">
 
 </div>
+
 ---
 
 # 💻 About Me
@@ -64,25 +65,40 @@ class AtishKumar:
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+
 ![DRF](https://img.shields.io/badge/DjangoREST-red?style=for-the-badge)
+
+---
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss)
+
+---
 
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
+
+---
 
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
 
@@ -166,36 +182,33 @@ AWS EC2
 
 # 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev\&show_icons=true\&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev\&show_icons=true\&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atishkumar98-Dev\&theme=github-dark-blue)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Atishkumar98-Dev\&theme=tokyonight)
 
 ---
 
 # 📊 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev\&layout=compact\&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=github-dark)
-
-
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=tokyo-night)
 
 ---
 
 # 💀 Random Developer Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
 
 # ⚡ Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
@@ -290,6 +303,6 @@ github.com/Atishkumar98-Dev
 
 ### ⭐ Thanks For Visiting ⭐
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5A5A5A,100:1F1F1F&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:0F172A&height=120&section=footer"/>
 
 </div>

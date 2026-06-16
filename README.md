@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="85%" src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif">
+<img width="75%" src="https://user-images.githubusercontent.com/74038190/212749695-0422a9f5-8452-4a0e-bb88-f7f9b4a0e6f0.gif">
 
 </div>
 
@@ -161,7 +161,6 @@ AWS EC2
 
 * SBI ePay Integration
 * Automated Invoice Generation
-* Donation Management
 
 ## 📚 Admission Portal
 
@@ -274,21 +273,15 @@ while alive:
 
 📧 **Email**
 
-```text
-atish98.dev@gmail.com
-```
+`atish98.dev@gmail.com`
 
 📍 **Location**
 
-```text
-Panvel, Navi Mumbai, India
-```
+`Panvel, Navi Mumbai, India`
 
 🐙 **GitHub**
 
-```text
-github.com/Atishkumar98-Dev
-```
+`github.com/Atishkumar98-Dev`
 
 ---
 

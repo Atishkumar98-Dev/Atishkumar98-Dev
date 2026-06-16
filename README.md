@@ -1,104 +1,308 @@
-**Atish Kumar**  
-**Experienced Django Developer Specializing in Scalable Web Applications**  
-**Location:** Panvel, Navi Mumbai, India  
-**Phone:** +91 8652012693  
-**Email:** atish98.dev@gmail.com 
+# <h1 align="center">Hi 👋, I'm Atish Kumar</h1>
+
+<h3 align="center">
+🐍 Python Developer | Django Specialist | REST API Architect | React Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Expert;REST+API+Developer;React+Frontend+Developer;AWS+Cloud+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
-### **Summary**
-Results-driven and detail-oriented Python Developer with over 3 years of professional experience specializing in web development using Django and React. Proven expertise in delivering high-performance, scalable, and secure applications in academic, financial, and business domains. Skilled in full-stack development, database design, and process optimization, with a strong commitment to clean, maintainable code and agile methodologies.
+## 🚀 About Me
+
+```python
+class AtishKumar:
+
+    def __init__(self):
+        self.name = "Atish Kumar"
+        self.location = "Panvel, Navi Mumbai, India"
+        self.role = "Software Developer"
+        self.languages = ["Python", "JavaScript"]
+        self.backend = ["Django", "DRF"]
+        self.frontend = ["React", "HTML", "CSS", "Tailwind"]
+        self.database = ["PostgreSQL", "MySQL", "SQLite"]
+        self.cloud = ["AWS", "Docker"]
+        self.tools = ["Git", "Linux", "Jenkins"]
+
+    def say_hi(self):
+        return "Thanks for visiting my profile 🚀"
+
+
+me = AtishKumar()
+print(me.say_hi())
+```
 
 ---
 
-### **Professional Experience**
+# 🛠 Tech Stack
 
-#### **Tata Institute of Social Sciences, Mumbai**
-**Software Developer**  
-*Sep 2023 – Present*
-- Debugged and enhanced Django-based systems, delivering optimized code and unit tests to improve software functionality.
-- Spearheaded key module development, including Fee Mapping, Results, Grade Cards, and Payment Gateway integration (SBIepay).
-- Developed new React features, boosting user interaction by 25% and reducing page load times by 35%.
-- Led full-stack development for CEMS, CESCR, and Transcendence Websites, improving web traffic by 25%.
+## Backend
 
-**Key Projects:**
-- **Student Management System (SMS):** Designed modules for fee mapping, grade card generation, and room scheduling.
-- **Invoice & Donation Portal:** Engineered a donation system with automated invoice generation, reducing manual errors by 40%.
-- **Admission Portal:** Created a seamless student admission process using Django and React, with DRF synchronization to SMS.
-
-#### **Junior Software Developer**  
-*Aug 2022 – Sep 2023*
-- Developed and tested new features for web applications, enhancing performance by resolving critical system issues.
-- Integrated third-party services like SBIepay for donation portals, ensuring seamless payment experiences.
-- Contributed to TISS project websites, increasing engagement by 25%.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
 
 ---
 
-#### **Nettech Solutions Pvt. Ltd., Rabale, Navi Mumbai**
-**Software Engineer**  
-*Jun 2021 – Aug 2022*
-- Developed, tested, and debugged web applications using Django and JavaScript.
-- Implemented responsive designs and user-friendly interfaces with CSS.
-- Integrated third-party APIs and streamlined banking processes for Cersai Portal.
-- Deployed banking server updates with minimal downtime for clients including Sindhudurg Bank, Model Bank, and Hanumanta Bank.
+## Frontend
 
-**Key Projects:**
-- Enhanced UMAC and CKYC platforms for improved user verification.
-- Managed seamless deployments of new releases to banking servers.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
 
 ---
 
-#### **Freelancer, Self-Employed**  
-*Apr 2020 – Jan 2021*
-- Developed, tested, and debugged web applications using HTML5, CSS3, and JavaScript.
-- Designed creative, responsive user interfaces and integrated third-party APIs.
-- Delivered end-user CMS training and recommended hosting solutions based on client needs.
+## Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge)
 
 ---
 
-### **Education**
-- **Master of Business Administration (MBA) – IT Management**  
-  *Dr. D.Y. Patil Vidyapeeth, Pune (Distance Learning)*  
-  *Jul 2020 – Aug 2022*  
-  *Certified Project: Created banking solutions web applications hosted on Heroku.*
+## DevOps & Cloud
 
-- **Bachelor of Computer Science**  
-  *St. Wilfred Education Society, Shedung, Panvel*  
-  *Apr 2017 – May 2020*
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
 
 ---
 
-### **Skills and Expertise**
+# 🎯 Coding Skills
 
-#### **Programming and Frameworks:**
-- Python, Django, Django REST Framework (DRF)
-- React.js, HTML/CSS, JavaScript, Bootstrap, Tailwind CSS
-
-#### **Database Management:**
-- PostgreSQL, MySQL, SQLite
-
-#### **DevOps and Tools:**
-- Docker, AWS (EC2, IAM, RDS)
-- CI/CD (Jenkins, Linux), Git
-
-#### **Testing and Optimization:**
-- Unit Testing, Integration Testing, Selenium
-- Performance Optimization and Caching (Redis, Memcached)
-
-#### **Core Competencies:**
-- Full-Stack Web Development
-- Scalable Web Applications
-- Database Architecture and Management
-- Cross-Functional Team Collaboration
-- Agile Methodologies and Problem Solving
-- Code Quality Assurance and Documentation
+```text
+Python          ██████████████████████ 95%
+Django          █████████████████████ 93%
+DRF             ████████████████████ 92%
+React           ██████████████████ 85%
+PostgreSQL      ██████████████████ 85%
+Docker          ████████████████ 80%
+AWS             ███████████████ 75%
+```
 
 ---
 
-### **Achievements**
-- Improved web traffic and user engagement by optimizing load times by up to 35%.
-- Reduced manual errors by 40% with automated invoice generation in donation portals.
-- Boosted team efficiency by implementing process improvements and robust testing methodologies.
+# 💼 Experience
+
+### Software Developer
+
+### Tata Institute of Social Sciences (TISS)
+
+* Student Management System
+* Admission Portal
+* Donation Portal
+* Invoice Generation System
+* SBIepay Integration
+* Grade Card Module
+* Room Scheduling System
 
 ---
 
+# 🚀 Featured Projects
+
+## 🎓 Student Management System
+
+```python
+class StudentManagementSystem:
+
+    backend = "Django"
+    frontend = "React"
+    database = "PostgreSQL"
+
+    def generate_grade_card(self):
+        return "Grade Card Generated"
+
+
+sms = StudentManagementSystem()
+print(sms.generate_grade_card())
+```
+
+---
+
+## 💳 Donation Portal
+
+```python
+class DonationPortal:
+
+    def create_invoice(self):
+        return "Invoice Created Successfully"
+
+
+portal = DonationPortal()
+print(portal.create_invoice())
+```
+
+---
+
+## 📚 Admission Portal
+
+```python
+class AdmissionPortal:
+
+    stack = ["Django", "React", "DRF"]
+
+    def sync_students(self):
+        return "Students Synchronized"
+
+
+print(AdmissionPortal().sync_students())
+```
+
+---
+
+# 🧠 System Design
+
+```text
+User
+ ↓
+React
+ ↓
+Django REST Framework
+ ↓
+Redis Cache
+ ↓
+PostgreSQL
+ ↓
+AWS EC2
+```
+
+---
+
+# 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=radical)]
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark)]
+
+---
+
+# 🐍 Contribution Snake
+
+```markdown
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 👾 Pacman Contribution Graph
+
+```html
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+```
+
+---
+
+# ☕ Developer Mode
+
+```python
+while coding:
+    coffee += 1
+    bugs -= 1
+```
+
+---
+
+# 🔥 Current Focus
+
+```python
+currently_learning = [
+    "AWS",
+    "Docker",
+    "Redis",
+    "CI/CD",
+    "System Design",
+    "Microservices"
+]
+```
+
+---
+
+# 🌐 API Playground
+
+```python
+import requests
+
+response = requests.get(
+    "https://api.github.com/users/YOUR_USERNAME"
+)
+
+print(response.json())
+```
+
+---
+
+# 🎮 Fun Zone
+
+## Random Developer Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+## Random Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
+# 📅 Contribution Calendar
+
+![Calendar](https://ghchart.rshah.org/YOUR_USERNAME)
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:atish98.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Building Scalable Applications with Python & Django ⭐
+
+</h3>

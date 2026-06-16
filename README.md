@@ -209,7 +209,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 # 🐍 Contribution Snake
 
 ```markdown
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Atishkumar98-Dev/Atishkumar98-Dev/blob/output/github-contribution-grid-snake.svg)
 ```
 
 ---
@@ -217,7 +217,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 # 👾 Pacman Contribution Graph
 
 ```html
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/Atishkumar98-Dev/Atishkumar98-Dev/output/pacman-contribution-graph.svg">
 ```
 
 ---

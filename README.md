@@ -8,6 +8,14 @@
 
 </div>
 
+
+# ⚡ Coding Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+
+</div>
 ---
 
 # 💻 About Me
@@ -177,15 +185,8 @@ AWS EC2
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=github-dark)
 
----
 
-# ⚡ Coding Mode
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-
-</div>
 
 ---
 

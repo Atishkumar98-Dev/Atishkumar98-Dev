@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:5C5C5C&height=250&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Django%20Specialist%20|%20REST%20API%20Architect&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:5A5A5A&height=250&section=header&text=ATISH%20KUMAR&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Specialist%20|%20REST%20API%20Architect&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=B0B0B0&center=true&vCenter=true&width=850&lines=Python+Developer;Django+Expert;React+Developer;REST+API+Architect;AWS+Cloud+Enthusiast;AI+%2F+LLM+Explorer"/>
 
@@ -59,7 +59,7 @@ class AtishKumar:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
 
-![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge)
+![DRF](https://img.shields.io/badge/DjangoREST-red?style=for-the-badge)
 
 ---
 
@@ -132,15 +132,15 @@ AI_STACK = {
 
 ```text
 Users
-  │
+   │
 React Frontend
-  │
+   │
 Django REST API
-  │
+   │
 Redis Cache
-  │
+   │
 PostgreSQL
-  │
+   │
 AWS EC2
 ```
 
@@ -156,8 +156,8 @@ AWS EC2
 
 ## 💳 Donation Portal
 
-* Invoice Generation
 * SBI ePay Integration
+* Invoice Generation
 
 ## 📚 Admission Portal
 
@@ -166,7 +166,7 @@ AWS EC2
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Atishkumar98-Dev\&show_icons=true\&theme=github_dark)
 
@@ -174,7 +174,7 @@ AWS EC2
 
 ---
 
-# 📊 Most Used Languages
+# 📊 Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkumar98-Dev\&layout=compact\&theme=github_dark)
 
@@ -183,12 +183,6 @@ AWS EC2
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Atishkumar98-Dev\&theme=github-dark)
-
----
-
-# 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=Atishkumar98-Dev\&theme=onedark\&column=4)
 
 ---
 
@@ -212,6 +206,29 @@ AWS EC2
 
 ---
 
+# 🎯 Current Focus
+
+```python
+CURRENTLY_LEARNING = [
+
+    "Redis",
+
+    "Docker",
+
+    "CI/CD",
+
+    "System Design",
+
+    "AWS",
+
+    "AI Agents",
+
+    "MCP"
+]
+```
+
+---
+
 # ☕
 
 ```python
@@ -230,19 +247,19 @@ while alive:
 
 # 📫 Connect With Me
 
-📧 **Email**
+### 📧 Email
 
 ```text
 atish98.dev@gmail.com
 ```
 
-📍 **Location**
+### 📍 Location
 
 ```text
 Panvel, Navi Mumbai, India
 ```
 
-🐙 **GitHub**
+### 🐙 GitHub
 
 ```text
 github.com/Atishkumar98-Dev
@@ -252,8 +269,8 @@ github.com/Atishkumar98-Dev
 
 <div align="center">
 
-### ⭐ Thanks for Visiting ⭐
+### ⭐ Thanks For Visiting ⭐
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C5C5C,100:1F1F1F&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5A5A5A,100:1F1F1F&height=120&section=footer"/>
 
 </div>
